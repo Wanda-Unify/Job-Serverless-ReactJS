@@ -42,7 +42,7 @@ Pour postuler ou simplement échanger sur le projet : https://www.linkedin.com/i
 
 **Process :**
 
-🗨️ Call ou visio avec la chargée de recrutement, 10min pour se présenter et voir si ça match !
+🗨️ un call ou une visio avec moi, 10min pour se présenter et voir si ça match !
 
 Un test technique pour challenger tes connaissances 🎢 
 Entretien visio entre pairs avec le Head of Engineering et/ou le lead dev afin de comprendre votre vision du développement et vous présenter la nôtre.
